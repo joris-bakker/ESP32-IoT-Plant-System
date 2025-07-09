@@ -1,4 +1,4 @@
-# ESP32-IoT-Plant-System
+# ESP32-IoT-Plant-System (Docomentation incomplete)
 ESP32-IoT-Plant System
 
 Electronic Parts:
