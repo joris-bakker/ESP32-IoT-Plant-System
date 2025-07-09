@@ -14,3 +14,6 @@ A Simple Device, that displays Sensor Data (soil-moisture, air Humidity, tempera
 
 Case: 3D-printed
 ![IMG20250703192834](https://github.com/user-attachments/assets/cfbc955d-a8cb-4b35-ae7d-0e5f9bf7359e)
+
+The Case for Soil-Moisture Sensor was used from:
+https://www.printables.com/model/702396-capacitive-soil-moisture-sensor-case
